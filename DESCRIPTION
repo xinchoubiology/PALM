@@ -1,0 +1,20 @@
+Package: PALM
+Type: Package
+Title: Solving Nonconvex and Nonsmooth Statistical Optimization
+       Problems Using the PALM algorithm
+Version: 1.0
+Author: Bolte Xin
+Maintainer: Bolte Xin <xxz220@miami.edu>
+Description: Solving noncovex and nonsmooth optimization problems using the
+    Proximal Alternating Linearized Minization (PALM) algorithm. Models that
+    have already been implemented by this package include Sparse Total least
+    square(STls).
+License: GPL (>=2)
+Encoding: UTF-8
+LazyData: true
+Depends: methods, plyr
+Imports: Rcpp (>= 0.12.6), Matrix, ggplot2
+LinkingTo: Rcpp, RcppEigen
+RoxygenNote: 5.0.1
+NeedsCompilation: yes
+Packaged: 2017-04-08 10:50:59 UTC; xinzhou
