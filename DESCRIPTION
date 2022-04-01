@@ -3,8 +3,8 @@ Type: Package
 Title: Solving Nonconvex and Nonsmooth Statistical Optimization
        Problems Using the PALM algorithm
 Version: 1.0
-Author: Bolte Xin
-Maintainer: Bolte Xin <xxz220@miami.edu>
+Author: Bolte Xin, Yilun Zhang
+Maintainer: Bolte Xin <xxz220@miami.edu>, Yilun Zhang <zhangyilun.123@bytedance.com>
 Description: Solving noncovex and nonsmooth optimization problems using the
     Proximal Alternating Linearized Minization (PALM) algorithm. Models that
     have already been implemented by this package include Sparse Total least
